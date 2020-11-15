@@ -7,7 +7,8 @@ namespace DumpGitApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Dummy line...");
+            Console.WriteLine("Dummy line changes...");
+            Console.WriteLine("Second dummy line...");
         }
     }
 }
