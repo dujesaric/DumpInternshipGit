@@ -1,2 +1,2 @@
 # DumpInternshipGit
-Repository for learining Git @DumpInternship
+Repository for learning Git @DumpInternship
