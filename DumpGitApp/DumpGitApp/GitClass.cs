@@ -6,5 +6,6 @@ namespace DumpGitApp
 {
     class GitClass
     {
+        private string[] commitsHashes;
     }
 }
